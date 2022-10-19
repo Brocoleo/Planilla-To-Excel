@@ -127,7 +127,7 @@ const Clientes = () => {
             <MenuItem value={5}>Emsesa</MenuItem>
             <MenuItem value={6}>Federicogili</MenuItem>
             <MenuItem value={7}>Ferosor</MenuItem>
-            <MenuItem value={8}>Flowmak</MenuItem>
+            <MenuItem value={8}>Gobikes</MenuItem>
             <MenuItem value={9}>Gobantes</MenuItem>
             <MenuItem value={10}>Gymsa</MenuItem>
             <MenuItem value={11}>Hoffens</MenuItem>
@@ -149,8 +149,7 @@ const Clientes = () => {
             <MenuItem value={28}>OyG</MenuItem>
             <MenuItem value={29}>Solucorp</MenuItem>
             <MenuItem value={30}>Aragonenergia</MenuItem>
-            <MenuItem value={31}>Gobikes</MenuItem>
-            <MenuItem value={32}>Syngenta</MenuItem>
+            <MenuItem value={31}>Syngenta</MenuItem>
             
         </Select>
         </FormControl>
